@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1699745943 source:c:\users\rouaa\onedrive\bureau\projrt agence de voyage\agence_de_voyage\main.c
+	<stdio.h>
+	<stdlib.h>
+	"maBib.h"
+	<string.h>
+
+1699744560 c:\users\rouaa\onedrive\bureau\projrt agence de voyage\agence_de_voyage\mabib.h
+
+1702828775 source:c:\users\rouaa\onedrive\bureau\projet c\projrt agence de voyage\agence_de_voyage\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.c"
+
+1704822439 c:\users\rouaa\onedrive\bureau\projet c\projrt agence de voyage\agence_de_voyage\fonctions.c
+	"maBib.h"
+
+1702744116 c:\users\rouaa\onedrive\bureau\projet c\projrt agence de voyage\agence_de_voyage\mabib.h
+
